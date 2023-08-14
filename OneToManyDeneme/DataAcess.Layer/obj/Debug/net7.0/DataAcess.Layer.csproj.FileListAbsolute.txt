@@ -1,0 +1,14 @@
+C:\Users\mm\source\repos\OneToManyDeneme\DataAcess.Layer\bin\Debug\net7.0\DataAcess.Layer.deps.json
+C:\Users\mm\source\repos\OneToManyDeneme\DataAcess.Layer\bin\Debug\net7.0\DataAcess.Layer.runtimeconfig.json
+C:\Users\mm\source\repos\OneToManyDeneme\DataAcess.Layer\bin\Debug\net7.0\DataAcess.Layer.dll
+C:\Users\mm\source\repos\OneToManyDeneme\DataAcess.Layer\bin\Debug\net7.0\DataAcess.Layer.pdb
+C:\Users\mm\source\repos\OneToManyDeneme\DataAcess.Layer\obj\Debug\net7.0\DataAcess.Layer.csproj.AssemblyReference.cache
+C:\Users\mm\source\repos\OneToManyDeneme\DataAcess.Layer\obj\Debug\net7.0\DataAcess.Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mm\source\repos\OneToManyDeneme\DataAcess.Layer\obj\Debug\net7.0\DataAcess.Layer.AssemblyInfoInputs.cache
+C:\Users\mm\source\repos\OneToManyDeneme\DataAcess.Layer\obj\Debug\net7.0\DataAcess.Layer.AssemblyInfo.cs
+C:\Users\mm\source\repos\OneToManyDeneme\DataAcess.Layer\obj\Debug\net7.0\DataAcess.Layer.csproj.CoreCompileInputs.cache
+C:\Users\mm\source\repos\OneToManyDeneme\DataAcess.Layer\obj\Debug\net7.0\DataAcess.Layer.dll
+C:\Users\mm\source\repos\OneToManyDeneme\DataAcess.Layer\obj\Debug\net7.0\refint\DataAcess.Layer.dll
+C:\Users\mm\source\repos\OneToManyDeneme\DataAcess.Layer\obj\Debug\net7.0\DataAcess.Layer.pdb
+C:\Users\mm\source\repos\OneToManyDeneme\DataAcess.Layer\obj\Debug\net7.0\DataAcess.Layer.genruntimeconfig.cache
+C:\Users\mm\source\repos\OneToManyDeneme\DataAcess.Layer\obj\Debug\net7.0\ref\DataAcess.Layer.dll
